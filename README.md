@@ -1,4 +1,4 @@
-# Hey- nice to e-meet you 🙋‍♀️
+# Hey, nice to e-meet you 🙋‍♀️
 
 Personal ReadMe
 
