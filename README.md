@@ -1,6 +1,6 @@
 # Hey, nice to e-meet you 🙋‍♀️
 
-Welcome to my page! 
+Welcome to my page! <br/>
 I'm **Anna**.
 
 ## About Me
