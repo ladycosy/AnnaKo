@@ -1,4 +1,4 @@
-# Hey, nice to e-meet you 🙋‍♀️
+# Hi, nice to e-meet you 🙋‍♀️
 
 Welcome to my page! <br/>
 I'm **Anna**.
