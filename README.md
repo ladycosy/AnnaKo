@@ -1,7 +1,7 @@
 # Hi, nice to e-meet you 🙋‍♀️
 
 Welcome to my page! <br/>
-I'm **Anna** with background in data analytics and project management. Now an aspiring front-end developer 👩‍💻
+I'm **Anna** with background in consumer insights and project management. Now an aspiring front-end developer 👩‍💻
 
 ## About Me
 📫 You can reach me at: [a.kozlowska1993@gmail.com](mailto:a.kozlowska1993@gmail.com)
