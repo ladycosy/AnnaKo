@@ -6,7 +6,7 @@
 ### I'm an aspiring front-end developer 👩‍💻 / trail runner ⛰🏃🏻‍♀️ / photographer 📷 with background in consumer insights and data analytics. I'm excited about learning new things and have passion for helping others!
 
 ## About Me
-📫 [E-mail me](mailto:a.kozlowska1993@gmail.com)
+📫 [Email me](mailto:a.kozlowska1993@gmail.com)
 
 👤 [My LinkedIn profile](https://www.linkedin.com/in/annakozlowska1993/)
 
