@@ -1,5 +1,6 @@
-# Hi, nice to e-meet you 🙋‍♀️
+<div align="center"><img src="assets/meeker-n-longs-narrow-no-name.jpg" alt="Header" width=100%></div>
 
+# Hi, nice to e-meet you 🙋‍♀️
 # Welcome to my page! I'm **Anna**  <br/>
 
 ### I'm an aspiring front-end developer 👩‍💻 / trail runner ⛰🏃🏻‍♀️ / photographer 📷 with background in consumer insights and data analytics. I'm excited about learning new things and have passion for helping others!
