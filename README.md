@@ -1,12 +1,15 @@
 # Hi, nice to e-meet you 🙋‍♀️
 
-Welcome to my page! <br/>
-I'm **Anna** with background in consumer insights and project management. Now an aspiring front-end developer 👩‍💻
+# Welcome to my page! I'm **Anna**  <br/>
+
+### I'm an aspiring front-end developer 👩‍💻 / trail runner ⛰🏃🏻‍♀️ / photographer 📷 with background in consumer insights and data analytics. I'm excited about learning new things and have passion for helping others!
 
 ## About Me
-📫 You can reach me at: [a.kozlowska1993@gmail.com](mailto:a.kozlowska1993@gmail.com)
+📫 My e-mail: [a.kozlowska1993@gmail.com](mailto:a.kozlowska1993@gmail.com)
 
-👤 My LinkedIn profile: [Anna Kozlowska](https://www.linkedin.com/in/annakozlowska1993/)
+👤 [My LinkedIn profile](https://www.linkedin.com/in/annakozlowska1993/)
+
+💼 [My Website]()
 
 ## Tools
 
