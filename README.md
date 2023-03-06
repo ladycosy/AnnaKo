@@ -1,12 +1,12 @@
-<div align="center"><img src="assets/meeker-n-longs-narrow-no-name.jpg" alt="" width=100%></div>
+<div align="center"><img src="" alt="" width=100%></div>
 
 # Hi, nice to e-meet you 🙋‍♀️ <br/>
-## Welcome to my page! I'm **Anna**  <br/>
+### Welcome to my page - I'm Anna  <br/>
 
 ### I'm an aspiring front-end developer 👩‍💻 / trail runner ⛰🏃🏻‍♀️ / photographer 📷 with background in consumer insights and data analytics. I'm excited about learning new things and have passion for helping others!
 
 ## About Me
-📫 My e-mail: [a.kozlowska1993@gmail.com](mailto:a.kozlowska1993@gmail.com)
+📫 [E-mail me] [a.kozlowska1993@gmail.com](mailto:a.kozlowska1993@gmail.com)
 
 👤 [My LinkedIn profile](https://www.linkedin.com/in/annakozlowska1993/)
 
