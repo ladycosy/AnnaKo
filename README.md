@@ -6,7 +6,7 @@
 ### I'm an aspiring front-end developer 👩‍💻 / trail runner ⛰🏃🏻‍♀️ / photographer 📷 with background in consumer insights and data analytics. I'm excited about learning new things and have passion for helping others!
 
 ## About Me
-📫 [E-mail me] [a.kozlowska1993@gmail.com](mailto:a.kozlowska1993@gmail.com)
+📫 [E-mail me](mailto:a.kozlowska1993@gmail.com)
 
 👤 [My LinkedIn profile](https://www.linkedin.com/in/annakozlowska1993/)
 
@@ -18,8 +18,10 @@
 <!--   <img alt="Python" src="https://img.shields.io/badge/-Python-EE4C2C?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-40AEF0?style=flat-square&logo=cplusplus&logoColor=white" /> -->
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<!--   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<!-- 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> -->
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
