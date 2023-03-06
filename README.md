@@ -1,6 +1,6 @@
 <div align="center"><img src="" alt="" width=100%></div>
 
-# Hi, nice to e-meet you 🙋‍♀️ <br/>
+# Hello, nice to e-meet you 🙋‍♀️ <br/>
 ### Welcome to my page - I'm Anna  <br/>
 
 ### I'm an aspiring front-end developer 👩‍💻 / trail runner ⛰🏃🏻‍♀️ / photographer 📷 with background in consumer insights and data analytics. I'm excited about learning new things and have passion for helping others!
